@@ -1,5 +1,5 @@
 ## This is the repository for my PyData Global (2025) tutorial "[Time series analysis for coupled neurons.](https://pydata.org/global2025/schedule)"
-- Launch the notebook in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/indrag49/Pycon-Ireland-Tutorial-2025/HEAD?filepath=PyCon%20Ireland%20Tutorial%20(2025).ipynb).
+- Launch the notebook in Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/indrag49/PyData-Global-Tutorial-2025/HEAD?filepath=PyData%20Global%20Tutorial%20(2025).ipynb).
 - Or launch it in google colab: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/indrag49/Pycon-Ireland-Tutorial-2025/blob/HEAD/PyCon%20Ireland%20Tutorial%20(2025).ipynb).
 - You can also choose to run it on your local machine. (Ensure you have all the necessary packages installed!)
 - Note that running the notebook from Binder or Google Colab might be comparatively slower than running it on your own local machine. Does not make much of a difference though!
